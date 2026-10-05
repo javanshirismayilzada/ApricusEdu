@@ -39,6 +39,13 @@
 
 ---
 
+##  Team
+
+ApricusEdu was built by two developers who both worked on the frontend and the backend:
+
+- **Javanshir Ismayilzada** – [GitHub](https://github.com/javanshirismayilzada)
+- **Javad Ismayilzada** – [GitHub](https://github.com/Javad-cs)
+
 ##  Project Structure
 
 ```
